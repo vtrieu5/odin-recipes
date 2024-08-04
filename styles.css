@@ -1,0 +1,20 @@
+img {
+    height: 320px;
+    width: auto;
+}
+.recipe {
+    background-color: red;
+    text-align: center;
+}
+
+.description {
+    background-color: green;
+}
+
+.ingredients {
+    background-color: blue;
+}
+
+.steps {
+    background-color: yellow;
+}
