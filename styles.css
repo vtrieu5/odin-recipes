@@ -1,3 +1,14 @@
+h1 {
+    text-align: center;
+}
+button {
+    text-align: center;
+    background-color: lightblue;
+    width: 10%;
+    display:block;
+    margin: 10px 0px;
+    border-color: purple;
+}
 img {
     height: 320px;
     width: auto;
